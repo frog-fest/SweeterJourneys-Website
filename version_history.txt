@@ -1,0 +1,3 @@
+0.1.0 – 2026-11-22
+* Neu: Website für OurSweetJourneys mit Startseite, Datenschutzerklärung, Nutzungsbedingungen und Impressum (Aufbau wie magID-Website, Farben der App).
+* Neu: Versionierung eingeführt (VERSION, version_history.txt).
