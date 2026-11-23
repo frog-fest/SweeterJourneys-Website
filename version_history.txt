@@ -1,3 +1,10 @@
+0.2.2 – 2026-11-23
+* Neu: Datenschutzerklärung – optionaler Passwortschutz (AES-256-GCM, Schlüssel aus dem Passwort, nirgends gespeichert) für Sicherungen und geteilte Reisen.
+
+0.2.1 – 2026-11-23
+* Neu: Datenschutzerklärung – „Das bin ich“ bleibt auf dem Gerät und ist weder Teil einer Sicherung noch einer geteilten Reise.
+* Neu: Startseite nennt das Teilen von Reisen mit Mitreisenden (ohne Konto oder Server).
+
 0.2.0 – 2026-11-23
 * Änderung: App heißt jetzt „Sweeter Journeys“ – Name auf allen Seiten, Markenzug, Titel und Startseite angepasst; Startseite spricht Alleinreisende, Paare, Familien, Freunde und Camper an.
 * Änderung: Neue Adresse https://frog-fest.github.io/SweeterJourneys-Website/ (Repository umbenannt).
