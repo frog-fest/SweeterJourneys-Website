@@ -1,3 +1,13 @@
+0.2.0 – 2026-11-23
+* Änderung: App heißt jetzt „Sweeter Journeys“ – Name auf allen Seiten, Markenzug, Titel und Startseite angepasst; Startseite spricht Alleinreisende, Paare, Familien, Freunde und Camper an.
+* Änderung: Neue Adresse https://frog-fest.github.io/SweeterJourneys-Website/ (Repository umbenannt).
+
+0.1.2 – 2026-11-23
+* Neu: Datenschutzerklärung – „Reisen teilen“ (Datei mit gewählten Reisen über die vom Nutzer gewählte App, kein Server/Konto, Zusammenführen beim Empfänger, persönliche Dokumente nie enthalten); Stand 23. November 2026.
+
+0.1.1 – 2026-11-22
+* Neu: Nutzungsbedingungen – ältere App-Versionen können nach einem Pflicht-Update erst nach dem Update weiter genutzt werden; Daten bleiben erhalten.
+
 0.1.0 – 2026-11-22
 * Neu: Website für OurSweetJourneys mit Startseite, Datenschutzerklärung, Nutzungsbedingungen und Impressum (Aufbau wie magID-Website, Farben der App).
 * Neu: Versionierung eingeführt (VERSION, version_history.txt).
