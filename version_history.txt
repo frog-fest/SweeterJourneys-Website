@@ -1,3 +1,15 @@
+0.2.7 – 2026-11-23
+* Neu: Datenschutzerklärung – Rail-Pass (Name, Pass-Nummer, Gültigkeit, Reisetage) sowie Strecken und Höhenmeter der Etappen ergänzt.
+
+0.2.6 – 2026-11-23
+* Neu: Datenschutzerklärung – Haustiere als Mitreisende und Mietdaten von Fahrzeugen ergänzt.
+
+0.2.5 – 2026-11-23
+* Neu: Datenschutzerklärung – Reiseroute samt Schlafplätzen (frei stehen, Parkplatz) ergänzt.
+
+0.2.4 – 2026-11-23
+* Neu: Datenschutzerklärung – lokal gespeicherte Daten um Unterkunftsarten und Platzausstattung, Reiseform (Veranstalter, Dienstreise, Geschenk), Fahrzeuge mit Kennzeichen sowie Koffer und Gepäckregeln ergänzt.
+
 0.2.3 – 2026-11-23
 * Änderung: App heißt wieder „Our Sweet Journeys“ – Name auf allen Seiten, Markenzug und Titel zurückgeändert.
 * Änderung: Adresse wieder https://frog-fest.github.io/OurSweetJourneys-Website/ (Repository zurückbenannt).
